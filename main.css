@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+}
+button{
+    background-color: rgba(0,0,0,0);
+}
+
+.heart{
+    height: 370px;
+    width: 640px;
+}
+
+.qt{
+    color: white;
+}
+
+.button{
+    display: flex;
+}
+
+
+
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    flex-direction: column;
+    
+}
+
+
+
+
+#bt{
+    height: 100px;
+    width: 200px;
+}
+
